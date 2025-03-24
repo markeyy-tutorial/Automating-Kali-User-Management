@@ -11,7 +11,7 @@ fi
 # action:username:password:group1,group2,...
 # action can be "create", "delete", or "update"
 
-INPUT_FILE="/home/kali/Desktop/Project/userList"
+INPUT_FILE="userList"
 
 # Function to create user and set password
 create_user() {
